@@ -37,6 +37,7 @@ Link | Description
 --- | ---
 [What to Expect in Gameplay and Mechanics](https://github.com/raid-teams/raid-teams/discussions/1) | How the game works and what to expect
 [Rules](https://github.com/raid-teams/raid-teams/discussions/2) | What should you be aware of and what crosses the line (not much)
+[FAQs](https://github.com/raid-teams/raid-teams/discussions/3) | Frequently Asked Questions
 [Discord](https://discord.gg/cSj8bFUQXe) | Connect with the community, join a team, get update notifications, ask questions, or reach out to the admins
 
 ## Map
