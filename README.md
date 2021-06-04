@@ -31,6 +31,24 @@ Information and resources to help you succeed in Raid Teams Servers
   - can be re-bundled with simple crafting supplies that can also be purchased from the trader (click your loose ammo and click recipes for info)
     - *TIP: ammo stacks are sized to vanilla, but ammo bundles are double capacity: 20 for rifle bundles, 40 for pistol/magnum bundles. We recommend placing these on your toolbelt instead of loose ammo. You can also use ammo bundles from your tool-belt with a left-click without having to enter into your inventory - just make sure your bag isn't totally full when you do!*
 
+## Phases Schedule
+
+Timeframe | Phase | Details
+:---: | :---: | ---
+Sun 7pm - Fri 7pm | Build Phase | LCB defense increased to infinity
+Fri 7pm - Sun 7pm | Raid Phase | LCB Defense down to 5x
+
+NOTE: *All times are in the Central Timezone*
+
+## Restart Schedule
+
+Time | Name | Details
+:---: | :---: | ---
+Mon-Fri 3am | Nightly Restart | Non-team regions are wiped to restore all POIs and discourage non-team building; bandits have no homes
+Fri&Sun 7pm | Switch Restart | Non-team regions are still wiped, but phases are also swapped and certain mods may be enabled/disabled
+
+NOTE: *All times are in the Central Timezone*
+
 ## More Details
 
 Link | Description
