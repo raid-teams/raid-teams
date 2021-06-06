@@ -10,8 +10,8 @@ Information and resources to help you succeed in Raid Teams Servers
   - without any book knowledge; this is one of the only progression elements found in this server
 - The world has...
   - nightly resets of all land not owned by `Teams`
-  - no land claims: instead, you would need to join one of the 4 teams to get access to these are controlled by 
-  - nightly bloodmoons
+  - no land claims: instead, you would need to join one of the 4 teams to get access to persistent land to build on
+  - BloodMoon nightly
 - `Teams`...
   - are like 'managed allies' (you'll notice the "allies" column in the players tab is disabled)
   - are protected from friendly fire (only for those on the same team, not the same party)
