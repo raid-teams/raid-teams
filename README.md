@@ -36,7 +36,7 @@ Information and resources to help you succeed in Raid Teams Servers
 Timeframe | Phase | Details
 :---: | :---: | ---
 Sun 7pm - Fri 7pm | Build Phase | LCB defense increased to infinity
-Fri 7pm - Sun 7pm | Raid Phase | LCB Defense down to 5x
+Fri 7pm - Sun 7pm | Raid Phase | LCB Defense down to Raid levels
 
 NOTE: *All times are in the Central Timezone*
 
