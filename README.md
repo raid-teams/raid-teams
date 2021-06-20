@@ -40,12 +40,12 @@ Fri 7pm - Sun 7pm | Raid Phase | LCB Defense down to Raid levels
 
 NOTE: *All times are in the Central Timezone*
 
-## Restart Schedule
+## Region Reset Schedule
 
 Time | Name | Details
 :---: | :---: | ---
-Mon-Fri 3am | Nightly Restart | Non-team regions are wiped to restore all POIs and discourage non-team building; bandits have no homes
-Fri&Sun 7pm | Switch Restart | Non-team regions are still wiped, but phases are also swapped and certain mods may be enabled/disabled
+Mon-Fri 3am | Nightly Reset | Non-team regions are wiped to restore all POIs and discourage non-team building; bandits have no homes
+Fri&Sun 7pm | Switch Reset | Non-team regions are still wiped, but phases are also swapped and certain mods may be enabled/disabled
 
 NOTE: *All times are in the Central Timezone*
 
