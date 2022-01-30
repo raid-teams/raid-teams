@@ -1,63 +1,35 @@
-# Raid Teams Guide
+# Raid Teams Server: Chonkers
 
-Information and resources to help you succeed in Raid Teams Servers
+Join Us! | Details
+:---: | :---
+[![Server Banner](https://7d2d.net/banner/MTA0NXw0MTgx)](https://7d2d.net) | <p>📛 `Chonkers / Undead Legacy / PVPVE`</p><p>🌎 `51.79.83.154:55340`</p>
+[![Undead Legacy Logo](https://ul.subquake.com/images/banners/logo.png)](https://ul.subquake.com) | <p>:zombie: 7 Days to Die `A20 (b238)` required</p><p>☢️ Undead Legacy `UL 2.5.41` required</p><p>:memo: Guided setup provided below</p>
+[![Discord](https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png)](https://discord.gg/x33at6WWrs) | 💬Discord group for community, support, and more
 
-## Quick Start
+## Undead Legacy Setup (Mod Launcher)
+This setup guide will use the Mod Launcher (by sphereii) and will do several steps for you automatically:
+- copies existing game to a new directory so you can still play vanilla when you want
+- disables EAC (required)
+- keeps your save files for UL stored separately from vanilla
+- keeps this separate copy of 7DTD content from automatically updating in steam, which could easily break your UL install
 
-- You'll start...
-  - with some gear that you don't want to lose
-  - at level 300 with all skills maxed out
-  - without any book knowledge; this is one of the only progression elements found in this server
-- The world has...
-  - nightly resets of all land not owned by `Teams`
-  - no land claims: instead, you would need to join one of the 4 teams to get access to persistent land to build on
-  - BloodMoon nightly
-- `Teams`...
-  - are like 'managed allies' (you'll notice the "allies" column in the players tab is disabled)
-  - are protected from friendly fire (only for those on the same team, not the same party)
-  - have access to land they can build on without it being reset (a 512x512 region; literally guild-sized land)
-  - can be joined by accepting the Discord Invite (link below) and requesting to join a team
-  - do not have to be joined, but you will be identified as a `Bandit` until you do
-- `Bandits`...
-  - are players without a team (any new player is automatically considered a bandit unless they are registered to a team before logging in)
-  - are not protected from friendly fire (even if partying with a team player)
-  - can become team members by joining discord and requesting to join a team
-  - do not have any permanent home and cannot build on team land
-  - can expect that anything they build will be wiped overnight (around 2am, Central)
-- Ammo...
-  - can be a problem starting out, but there are solutions
-  - often drops in decent amounts from boss zombies
-  - can be bought in VERY LARGE QUANTITIES from the Trader, who fully restocks his supply every single in-game day
-  - can be re-bundled with simple crafting supplies that can also be purchased from the trader (click your loose ammo and click recipes for info)
-    - *TIP: ammo stacks are sized to vanilla, but ammo bundles are double capacity: 20 for rifle bundles, 40 for pistol/magnum bundles. We recommend placing these on your toolbelt instead of loose ammo. You can also use ammo bundles from your tool-belt with a left-click without having to enter into your inventory - just make sure your bag isn't totally full when you do!*
+### Setting up with the Mod Launcher
+*Our goal is to have Alpha 20 (b238) and UL 2.5.41 installed*
 
-## Phases Schedule
+![Setup Version](https://github.com/raid-teams/raid-teams/raw/main/web-assets/version-image.png)
 
-Timeframe | Phase | Details
-:---: | :---: | ---
-Sun 7pm - Fri 7pm | Build Phase | LCB defense increased to infinity
-Fri 7pm - Sun 7pm | Raid Phase | LCB Defense down to Raid levels
+1. Download, install, and run the Mod Launcher: [download link](https://github.com/7D2DModLauncher/ThickInstaller/blob/master/SetupInstaller.msi?raw=true)
+    - *If you're ok with the default install directory of `C:\7D2D\`, then be sure to click the folder button on the main page (before clicking anything) so you can change the drive/directory it installs things to*
+        - ![Change Mod Directory Button](https://github.com/raid-teams/raid-teams/raw/main/web-assets/launcher-setup-0.jpg)
+3. Select Undead Legacy, stick with default options, and click `Install Game Copy`
+    - ![Setup Screenshot 1](https://github.com/raid-teams/raid-teams/raw/main/web-assets/launcher-setup-1.png)
+5. As the launcher indicates, click`Pre-Sync Mod` and choose `yes` when asked if you want to download the mod (this can take some time, but you will see the progress near the bottom of the window in the `status` label)
+    - ![Setup Screenshot 2](https://github.com/raid-teams/raid-teams/raw/main/web-assets/launcher-setup-2.png)
+6. Once complete, simply click `Play Mod` to launch it
+    - ![Setup Screenshot 3](https://github.com/raid-teams/raid-teams/raw/main/web-assets/launcher-setup-3.jpg)
 
-NOTE: *All times are in the Central Timezone*
-
-## Region Reset Schedule
-
-Time | Name | Details
-:---: | :---: | ---
-Mon-Fri 3am | Nightly Reset | Non-team regions are wiped to restore all POIs and discourage non-team building; bandits have no homes
-Fri&Sun 7pm | Switch Reset | Non-team regions are still wiped, but phases are also swapped and certain mods may be enabled/disabled
-
-NOTE: *All times are in the Central Timezone*
-
-## More Details
-
-Link | Description
---- | ---
-[What to Expect in Gameplay and Mechanics](https://github.com/raid-teams/raid-teams/discussions/1) | How the game works and what to expect
-[Rules](https://github.com/raid-teams/raid-teams/discussions/2) | What should you be aware of and what crosses the line (not much)
-[FAQs](https://github.com/raid-teams/raid-teams/discussions/3) | Frequently Asked Questions
-[Discord](https://discord.gg/cSj8bFUQXe) | Connect with the community, join a team, get update notifications, ask questions, or reach out to the admins
-
-## Map
-
-![map](https://github.com/raid-teams/raid-teams/raw/main/web-assets/preview.jpg)
+### Copying your existing Player Profile (character model)
+*If you want to copy your character profile, you can manually copy it to your Undead Legacy folder and avoid having to recreate your character.*
+1. Copy your existing profile file named profiles.sdf, found in `%APPDATA%\7DaysToDie\Saves`
+2. Paste this file into your Undead Legacy Saves directory and overwrite the existing file there.
+    - by default, this will be under `C:\7D2D\Saves\Undead Legacy\Undead Legacy Stable`
