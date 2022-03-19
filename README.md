@@ -2,5 +2,5 @@
 
 Join Us!
 :---:
-[![Server Banner](https://7d2d.net/banner/MTA0NXw0MTgx)](https://7d2d.net)
+[![Server Banner](https://7daystodie-servers.com/server/104744/banners/leaderboard-1.png)](https://7daystodie-servers.com/server/104744/)
 [![Discord](https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png)](https://discord.gg/x33at6WWrs)
